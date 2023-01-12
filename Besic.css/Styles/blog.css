@@ -1,0 +1,18 @@
+h3{
+color: magenta;
+}
+p{
+    color: violet;
+} 
+ .page-title{
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .header{
+    height: 200px;
+    background-image: url('../strong.jpg');
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: top right;
+    /*  */
+ }
